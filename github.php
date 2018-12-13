@@ -2,6 +2,6 @@
 
 echo "initial github";
 
-echo "Autodeploy github sukses";
+echo "Autodeploy github sukses 2";
 
 ?>
